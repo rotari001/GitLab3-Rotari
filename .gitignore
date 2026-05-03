@@ -1,2 +1,4 @@
+NB-3
+secrets.yaml
 *.md
 !README.md

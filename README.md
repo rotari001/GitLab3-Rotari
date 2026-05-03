@@ -1,4 +1,6 @@
-# GitLab3-Rotari
+# GitLab3-Rotari 
+
+# NB-3 edit
 
 <<<<<<< NB-2
 =======
